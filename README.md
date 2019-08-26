@@ -1,4 +1,4 @@
-# asesstment-command-processor
+# assesstment-command-processor
 Command descriptions.<br />
 quit             => For closing the application.<br />
 pwd              => For listing the current directory.<br />
