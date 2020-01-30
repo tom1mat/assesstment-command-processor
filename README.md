@@ -1,8 +1,11 @@
 # assesstment-command-processor
-Command descriptions.<br />
-quit             => For closing the application.<br />
-pwd              => For listing the current directory.<br />
-ls               => For listing the contents of the current directory.<br />
-cd [dirName]     => For changing the current directory.<br />
-mkdir [dirName]  => For creating a new directory.<br />
-touch [fileName] => For creating a file.<br />
+
+## Commands
+| Command | description |
+| -------- | ------ |
+| quit | For closing the application. |
+| pwd | For listing the current directory. |
+| ls | For listing the contents of the current directory. |
+| cd [dirName] | For changing the current directory. | 
+| mkdir [dirName] | For creating a new directory. | 
+| touch [fileName] | For creating a file. |
